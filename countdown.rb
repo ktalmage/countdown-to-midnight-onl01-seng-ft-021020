@@ -12,6 +12,6 @@
 #end
 
 def countdown_with_sleep
-  sleep(1) until number = 0
+  sleep(1) until number == 0
 end
 puts countdown_with_sleep
