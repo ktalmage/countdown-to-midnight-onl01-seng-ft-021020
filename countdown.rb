@@ -13,6 +13,7 @@
 
 def countdown_with_sleep
   number = 10
+  number -=1
   sleep(1) until number == 0
 end
 puts countdown_with_sleep
