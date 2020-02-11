@@ -11,7 +11,7 @@ def countdown
   end
 end
 
-puts countdown
+
 
 def countdown_with_sleep(num_secs)
   number = 10
@@ -21,4 +21,3 @@ def countdown_with_sleep(num_secs)
   end
 end
 
-puts countdown_with_sleep(1)
