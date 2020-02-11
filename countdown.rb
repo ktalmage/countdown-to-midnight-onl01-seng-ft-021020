@@ -18,3 +18,5 @@ def countdown_with_sleep(num_secs)
   number -= 1
   end
 end
+
+countdown_with_sleep(1)
