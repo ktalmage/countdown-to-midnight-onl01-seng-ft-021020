@@ -12,4 +12,4 @@ def countdown(num_secs)
   
 end
 
-puts countdown
+puts countdown(0.5)
