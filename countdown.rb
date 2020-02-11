@@ -10,7 +10,5 @@ def countdown(num_secs)
   if number == 0
     puts "HAPPY NEW YEAR!"
   end
-  
 end
 
-puts countdown(0.5)
