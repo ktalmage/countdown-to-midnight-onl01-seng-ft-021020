@@ -8,8 +8,8 @@ def countdown
     end
   if number = 0
   puts "HAPPY NEW YEAR!"
-  #end
-#end
+  end
+end
 
 def countdown_with_sleep
   number = 10
