@@ -12,5 +12,9 @@ def countdown
 end
 
 def countdown_with_sleep(num_secs)
+  number = 10
+  while number > 0
   sleep(num_secs)
+  number -= 1
+  end
 end
